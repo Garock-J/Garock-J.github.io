@@ -1,0 +1,26 @@
+body, p { margin: 0; }
+#box1 {
+    position: relative; /* 포지션을 안 넣으면 박스 위치 조정 못함 */
+    width: 800px;
+    left: 60px;
+    top: 0;
+    background-color: #00ff00;
+    font-size: 0; /* inline 속성의 자식요소 간 공백 제거 */
+}
+#box1 > img {
+    width: 40%;
+}
+#box1 > p {
+    position: absolute; /* 레이어 겹치게 가능*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Oswald', sans-serif;
+    font-size: 5vw; /* vw는 상대적 단위 */
+    color: rgba(255, 255, 255, 0.0);
+    -webkit-text-stroke: 1px #ffffff;
+}
+#box2 > video {
+    width: 100%;
+    height: 100%;
+}
