@@ -1,11 +1,4 @@
-#box1 {
-    position: relative;
-    width: 100vw;
-    height: 56.25vw;
-    left: 0;
-    top: 0;
-    background-color: #000000;
-}
+
 #box1 {
     position: absolute;
     width: 100vw;
@@ -16,4 +9,7 @@
     background-size: cover;
     background-position-y: center;
     background-color: #0051ff;
+}
+#box2 > p {
+
 }
