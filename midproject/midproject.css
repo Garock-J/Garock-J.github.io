@@ -1,0 +1,13 @@
+#box1 {
+    position: relative;
+    width: 100vw;
+    height: 56.25vw;
+    left: 0;
+    top: 0;
+    background-color: #000000;
+}
+#box1 > img {
+    width: 100%;
+    height: 100%;
+
+}
