@@ -9,7 +9,7 @@
     background-position-y: center;
     background-color: #0051ff;
 }
-#box2 > p {
+p {
     position: absolute;
     width: 50vw;
     left: 100px;
