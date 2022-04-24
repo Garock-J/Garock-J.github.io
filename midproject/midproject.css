@@ -38,9 +38,9 @@
 }
 #box4 > h3 {
     position: absolute;
-    top: 350px;
+    top: 400px;
     left: 80px;
     font-family: 'Playfair Display', serif;
-    font-size: 30px;
+    font-size: 40px;
     color: rgb(0, 0, 0);
 }
