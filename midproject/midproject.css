@@ -13,10 +13,10 @@
 }
 #box2 > p {
     position: absolute; /* 레이어 겹치게 가능*/
-    top: 32px;
+    top: 64px;
     left: 32px;
     font-family:'Playfair Display', serif;
-    font-size: 32px; /* vw는 상대적 단위 */
+    font-size: 45px; /* vw는 상대적 단위 */
     color: rgb(0, 0, 0);
     -webkit-text-stroke: 1px #ffffff00;
 }
