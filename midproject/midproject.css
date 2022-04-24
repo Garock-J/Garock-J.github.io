@@ -44,3 +44,11 @@
     font-size: 32px;
     color: rgb(0, 0, 0);
 }
+#box4 > p {
+    position: absolute;
+    top: 450px;
+    left: 80px;
+    font-family: 'Song Myung', serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
