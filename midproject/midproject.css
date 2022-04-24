@@ -10,15 +10,12 @@
     background-color: #0051ff;
 }
 p {
-    position: absolute;
-    width: 50vw;
-    left: 100px;
-    top: 200px;
-    padding: 20px;
-    background-color: #ffffff;
-    overflow: hidden; /* 내용이 넘칠 경우 처리 방법*/
-    font-family: 'Noto Sans KR', sans-serif;
-    font-size: 16px;
-    font-weight: 300;
-    line-height: 30px;
+    position: absolute; /* 레이어 겹치게 가능*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Oswald', sans-serif;
+    font-size: 5vw; /* vw는 상대적 단위 */
+    color: rgba(255, 255, 255, 0.0);
+    -webkit-text-stroke: 1px #ffffff;
 }
