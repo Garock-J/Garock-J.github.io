@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Song+Myung&display=swap');
 
 #box1 {
     position: absolute;
@@ -32,7 +32,7 @@
     position: absolute;
     top: 190px;
     left: 100px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Song Myung', serif;
     font-size: 30px;
     color: rgb(0, 0, 0);
 }
