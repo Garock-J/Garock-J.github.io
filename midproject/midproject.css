@@ -15,7 +15,7 @@
 #box2 > h1 {
     position: absolute;
     top: 104px;
-    left: 80px;
+    left: 90px;
     font-family:'Playfair Display', serif;
     font-size: 45px;
     color: rgb(0, 0, 0);
@@ -23,7 +23,7 @@
 #box2 > h2 {
     position: absolute;
     top: 160px;
-    left: 80px;
+    left: 90px;
     font-family:'Playfair Display', serif;
     font-size: 45px;
     color: rgb(0, 0, 0);
@@ -31,7 +31,7 @@
 #box3 > p {
     position: absolute;
     top: 235px;
-    left: 80px;
+    left: 90px;
     font-family: 'Song Myung', serif;
     font-size: 30px;
     color: rgb(0, 0, 0);
@@ -39,7 +39,7 @@
 #box4 > h3 {
     position: absolute;
     top: 400px;
-    left: 80px;
+    left: 90px;
     font-family: 'Playfair Display', serif;
     font-size: 32px;
     color: rgb(0, 0, 0);
@@ -47,7 +47,7 @@
 #box4 > p {
     position: absolute;
     top: 460px;
-    left: 80px;
+    left: 90px;
     font-family: 'Song Myung', serif;
     font-size: 21px;
     color: rgb(0, 0, 0);
