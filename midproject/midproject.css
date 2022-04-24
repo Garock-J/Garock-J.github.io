@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
 #box1 {
     position: absolute;
     width: 100vw;
@@ -9,13 +11,13 @@
     background-position-y: center;
     background-color: #0051ff;
 }
-p {
+#box2 > p {
     position: absolute; /* 레이어 겹치게 가능*/
-    top: 50%;
-    left: 50%;
+    top: 10%;
+    left: 10%;
     transform: translate(-50%, -50%);
-    font-family: 'Oswald', sans-serif;
+    font-family:'Playfair Display', serif;
     font-size: 5vw; /* vw는 상대적 단위 */
-    color: rgba(255, 255, 255, 0.0);
+    color: rgb(0, 0, 0);
     -webkit-text-stroke: 1px #ffffff;
 }
