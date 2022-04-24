@@ -36,3 +36,11 @@
     font-size: 30px;
     color: rgb(0, 0, 0);
 }
+#box4 > h3 {
+    position: absolute;
+    top: 600px;
+    left: 80px;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
