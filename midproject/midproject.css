@@ -27,3 +27,11 @@
     font-size: 45px;
     color: rgb(0, 0, 0);
 }
+#box3 > p {
+    position: absolute;
+    top: 176px;
+    left: 60px;
+    font-family:'Playfair Display', serif;
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+}
