@@ -63,7 +63,14 @@
 .link1 {
     position: absolute;
     top: 540px;
-    left: 380px;
+    left: 500px;
+    font-size: 21px;
+    color: rgb(0, 0, 0);
+}
+.link2 {
+    position: absolute;
+    top: 540px;
+    left: 450px;
     font-size: 21px;
     color: rgb(0, 0, 0);
 }
