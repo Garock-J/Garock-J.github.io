@@ -14,7 +14,7 @@
 #box2 > p {
     position: absolute; /* 레이어 겹치게 가능*/
     top: 64px;
-    left: 32px;
+    left: 50px;
     font-family:'Playfair Display', serif;
     font-size: 45px; /* vw는 상대적 단위 */
     color: rgb(0, 0, 0);
