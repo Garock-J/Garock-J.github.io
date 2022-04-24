@@ -14,7 +14,7 @@
 }
 #box2 > h1 {
     position: absolute;
-    top: 64px;
+    top: 84px;
     left: 60px;
     font-family:'Playfair Display', serif;
     font-size: 45px;
@@ -22,7 +22,7 @@
 }
 #box2 > h2 {
     position: absolute;
-    top: 120px;
+    top: 140px;
     left: 60px;
     font-family:'Playfair Display', serif;
     font-size: 45px;
@@ -30,7 +30,7 @@
 }
 #box3 > p {
     position: absolute;
-    top: 195px;
+    top: 215px;
     left: 60px;
     font-family: 'Song Myung', serif;
     font-size: 30px;
