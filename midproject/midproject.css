@@ -15,7 +15,6 @@
     position: absolute; /* 레이어 겹치게 가능*/
     top: 32px;
     left: 32px;
-    transform: translate;
     font-family:'Playfair Display', serif;
     font-size: 32px; /* vw는 상대적 단위 */
     color: rgb(0, 0, 0);
