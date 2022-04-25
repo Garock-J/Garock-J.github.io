@@ -22,10 +22,10 @@
 }
 #box2 > h2 {
     position: absolute;
-    top: 160px;
-    left: 90px;
+    top: 12vw;
+    left: 6.4vw;
     font-family:'Playfair Display', serif;
-    font-size: 45px;
+    font-size: 3.1vw;
     color: rgb(0, 0, 0);
 }
 #box3 > p {
