@@ -14,10 +14,10 @@
 }
 #box2 > h1 {
     position: absolute;
-    top: 10 vw;
-    left: 10vw;
+    top: 8vw;
+    left: 8vw;
     font-family:'Playfair Display', serif;
-    font-size: 5vw;
+    font-size: 4vw;
     color: rgb(0, 0, 0);
 }
 #box2 > h2 {
