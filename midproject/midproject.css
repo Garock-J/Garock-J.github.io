@@ -14,8 +14,8 @@
 }
 #box2 > h1 {
     position: absolute;
-    top: 50vw;
-    left: 50vw;
+    top: 104px;
+    left: 90px;
     font-family:'Playfair Display', serif;
     font-size: 45px;
     color: rgb(0, 0, 0);
