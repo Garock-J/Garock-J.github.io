@@ -38,10 +38,10 @@
 }
 #box4 > h3 {
     position: absolute;
-    top: 428px;
-    left: 90px;
+    top: 23vw;
+    left: 6.4vw;
     font-family: 'Playfair Display', serif;
-    font-size: 32px;
+    font-size: 3.8vw;
     color: rgb(0, 0, 0);
 }
 #box4 > p {
