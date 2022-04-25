@@ -54,10 +54,10 @@
 }
 #box5 > p {
     position: absolute;
-    top: 490px;
-    left: 350px;
+    top: 33.8vw;
+    left: 11vw;
     font-family: 'Song Myung', serif;
-    font-size: 21px;
+    font-size: 1.38vw;
     color: rgb(0, 0, 0);
 }
 .link1 {
