@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Song+Myung&display=swap');
+
+#box1 {
+    position: absolute;
+    width: 100vw;
+    height: 56.25vw;
+    left: 0;
+    top: 0;
+    background-image: url("background.png");
+    background-size: cover;
+    background-position-y: center;
+    background-color: #0051ff;
+}
