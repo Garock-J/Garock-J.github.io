@@ -12,3 +12,10 @@
     background-position-y: center;
     background-color: #0051ff;
 }
+#menu {
+    position: absolute;
+    left: 6.8vw;
+    top: 1.3vw;
+    font-family: 'Song Myung', serif;
+    font-size: 1.5vw;
+}
