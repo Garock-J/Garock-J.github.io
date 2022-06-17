@@ -43,8 +43,8 @@
 }
 #social {
     position: absolute;
-    bottom: 24px;
-    right: 8px;
+    top: 3.6vw;
+    right: 3.6vw;
 }
 
 @media screen and (max-width: 960px) {
