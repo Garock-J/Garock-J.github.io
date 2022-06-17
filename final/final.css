@@ -27,3 +27,42 @@
     height: 250px;
     border: solid 1px #000;
 }
+#index {
+    position: absolute;
+    width: 400px;
+    height: 24px;
+    left: 50%; transform: translateX(-50%);
+    bottom: 24px;
+    text-align: center;
+    /* background-color: #fff; */
+}
+#index > ul {
+    display: inline-block;
+    margin: 0; padding: 0;
+    list-style-type: none;
+}
+#index > ul a:link,
+#index > ul a:visited
+{
+    text-decoration: none;
+    color: #000000;
+}
+#index > ul a:hover
+{
+    text-decoration: underline;
+    color: #ff5bd0;
+}
+#index > ul li {
+    float: left;
+    padding: 0 24px;
+    /* background-color: #fff;
+    border: solid 1px #000; */
+}
+#index > ul li:hover {
+    /* background-color: #ffffff; */
+}
+#index {
+    position: absolute;
+    bottom: 24px;
+    right: 8px;
+}
