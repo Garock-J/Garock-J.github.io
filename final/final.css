@@ -31,8 +31,8 @@
     position: absolute;
     width: 400px;
     height: 24px;
-    left: 50%; transform: translateX(-50%);
-    bottom: 24px;
+    left: 3vw; transform: translateX(-50%);
+    top: 3vw;
     text-align: center;
     /* background-color: #fff; */
 }
