@@ -12,7 +12,7 @@
     background-position-y: center;
     background-color: #0051ff;
 }
-#mainmenu {
+#index {
     position: absolute;
     width: 400px;
     height: 24px;
@@ -21,23 +21,23 @@
     text-align: center;
     /* background-color: #fff; */
 }
-#mainmenu > ul {
+#index > ul {
     display: inline-block;
     margin: 0; padding: 0;
     list-style-type: none;
 }
-#mainmenu > ul a:link,
-#mainmenu > ul a:visited
+#index> ul a:link,
+#index> ul a:visited
 {
     text-decoration: none;
     color: #000000;
 }
-#mainmenu > ul a:hover
+#index > ul a:hover
 {
     text-decoration: underline;
     color: #85deff;
 }
-#mainmenu > ul li {
+#index > ul li {
     float: left;
     padding: 0 24px;
 }
