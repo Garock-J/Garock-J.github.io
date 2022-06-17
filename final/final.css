@@ -13,7 +13,7 @@
     background-color: #0051ff;
 }
 #menu {
-    position: fixed;
+    position: absolute;
     top: 100px;
     left: 100px;
 }
