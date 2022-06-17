@@ -14,55 +14,16 @@
 }
 #menu {
     position: absolute;
-    top: 1vw;
-    left: 1vw;
-}
-#mainmenu {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 200px;
-    height: 0px;
-    background-color: rgb(128, 213, 255);
+    left: 4vw;
+    top: 1.3vw;
+    width: 3vw;
+    height: 0px; 
+    background-color: rgb(196, 252, 255);
     box-sizing: border-box;
     border: none;
     transition-duration: 0.2s;
 }
 #menu:hover > #mainmenu {
     height: 250px;
-    border: solid 1px rgba(0, 0, 0, 0);
-}
-#index {
-    position: absolute;
-    width: 400px;
-    height: 24px;
-    left: 50%; transform: translateX(-50%);
-    bottom: 24px;
-    text-align: center;
-    /* background-color: #fff; */
-}
-#index > ul {
-    display: inline-block;
-    margin: 0; padding: 0;
-    list-style-type: none;
-}
-#index> ul a:link,
-#index> ul a:visited
-{
-    text-decoration: none;
-    color: #000000;
-}
-#index > ul a:hover
-{
-    text-decoration: underline;
-    color: #bc00b9;
-}
-#index > ul li {
-    float: left;
-    padding: 0 24px;
-}
-#social {
-    position: absolute;
-    top: 1vw;
-    right: 1vw;
+    border: solid 1px #000;
 }
