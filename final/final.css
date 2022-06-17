@@ -14,8 +14,8 @@
 }
 #menu {
     position: fixed;
-    top: 100px;
-    left: 100px;
+    top: 1.2vw;
+    left: 1.2vw;
 }
 #mainmenu {
     position: absolute;
