@@ -4,13 +4,13 @@
 #box1 {
     position: absolute;
     width: 100vw;
-    height: 56.25vw;
+    height: 100vw;
     left: 0;
     top: 0;
-    background-image: url("background001.png");
+    background-image: url("background01.png");
     background-size: cover;
     background-position-y: center;
-    background-color: #0051ff;
+    background-color: #ffd4f7;
 }
 #index {
     position: absolute;
