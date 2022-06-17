@@ -31,10 +31,8 @@
     position: absolute;
     width: 400px;
     height: 24px;
-    left: 3vw; transform: translateX(-50%);
-    top: 3vw;
-    text-align: center;
-    /* background-color: #fff; */
+    left: 20vw;;
+    top: 20vw;
 }
 #index > ul {
     display: inline-block;
