@@ -16,7 +16,7 @@
     position: absolute;
     left: 4vw;
     top: 1.3vw;
-    width: 10vw;
+    width: 3vw;
     height: 0px; 
     background-color: rgb(196, 252, 255);
     box-sizing: border-box;
@@ -25,5 +25,5 @@
 }
 #menu:hover > #mainmenu {
     height: 250px;
-    border: solid 0.5px #000;
+    border: solid 1px #000;
 }
