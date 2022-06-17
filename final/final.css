@@ -23,3 +23,7 @@
     border: none;
     transition-duration: 0.2s;
 }
+#menu:hover > #mainmenu {
+    height: 250px; /* 0에서 시작했다가 펼쳐짐 */
+    border: solid 1px #000;
+}
