@@ -12,26 +12,6 @@
     background-position-y: center;
     background-color: #0051ff;
 }
-#menu {
-    position: fixed;
-    top: 1.2vw;
-    left: 1.2vw;
-}
-#mainmenu {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 200px;
-    height: 0px;
-    background-color: antiquewhite;
-    box-sizing: border-box;
-    border: none;
-    transition-duration: 0.2s;
-}
-#menu:hover > #mainmenu {
-    height: 250px;
-    border: solid 1px #000;
-}
 #index {
     position: absolute;
     width: 400px;
