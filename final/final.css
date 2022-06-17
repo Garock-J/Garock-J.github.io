@@ -31,8 +31,8 @@
     position: absolute;
     width: 400px;
     height: 24px;
-    left: 20vw;;
-    top: 20vw;
+    left: 8vw;;
+    top: 8vw;
 }
 #index > ul {
     display: inline-block;
@@ -53,11 +53,8 @@
 #index > ul li {
     float: left;
     padding: 0 24px;
-    /* background-color: #fff;
-    border: solid 1px #000; */
 }
 #index > ul li:hover {
-    /* background-color: #ffffff; */
 }
 #index {
     position: absolute;
