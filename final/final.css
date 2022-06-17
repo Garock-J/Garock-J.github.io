@@ -12,21 +12,6 @@
     background-position-y: center;
     background-color: #0051ff;
 }
-#menu {
-    position: absolute;
-    left: 4vw;
-    top: 1.3vw;
-    width: 3vw;
-    height: 0px; 
-    background-color: rgb(196, 252, 255);
-    box-sizing: border-box;
-    border: none;
-    transition-duration: 0.2s;
-}
-#menu:hover > #mainmenu {
-    height: 250px;
-    border: solid 1px #000;
-}
 #mainmenu {
     position: absolute;
     width: 400px;
@@ -50,13 +35,11 @@
 #mainmenu > ul a:hover
 {
     text-decoration: underline;
-    color: #75caff;
+    color: #85deff;
 }
 #mainmenu > ul li {
     float: left;
     padding: 0 24px;
-    /* background-color: #fff;
-    border: solid 1px #000; */
 }
 
 @media screen and (max-width: 960px) {
