@@ -12,6 +12,11 @@
     background-position-y: center;
     background-color: #0051ff;
 }
+#menu {
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}
 #mainmenu {
     position: absolute;
     top: 0;
