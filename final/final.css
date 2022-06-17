@@ -41,6 +41,11 @@
     float: left;
     padding: 0 24px;
 }
+#social {
+    position: absolute;
+    bottom: 24px;
+    right: 8px;
+}
 
 @media screen and (max-width: 960px) {
     .item-container {
